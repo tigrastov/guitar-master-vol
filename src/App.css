@@ -1,0 +1,23 @@
+
+
+body {
+  margin: 0;
+  padding: 0;
+  /* background: url('/bg.jpg') no-repeat center center fixed; */
+  /*background: url('/pic05.jpg') ;*/
+
+
+
+  background-size: cover;
+  min-height: 100vh;
+  font-family: 'Arial', sans-serif;
+}
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+#root {
+  min-height: 100vh;
+}
+
