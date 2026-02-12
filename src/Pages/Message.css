@@ -12,11 +12,11 @@
 
 .message-container h1 {
     margin-top: 0;
-    color: #333;
+    color: rgb(96, 108, 148);
 }
 
 .message-container p {
-    color: #666;
+    color: rgb(96, 108, 148);
     line-height: 1.6;
 }
 
@@ -28,7 +28,7 @@
   transform: translateX(-50%);
   width: 90%;
   max-width: 800px;
-  background: white;
+  background: url('/wood.jpg');
 
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   padding: 30px;

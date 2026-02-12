@@ -1,5 +1,5 @@
 .card {
-  background: #f5f5f5;
+  background: url('/darkwood.jpeg');
   border-radius: 8px;
   padding: 16px 10px 20px 10px;     
   box-shadow: 0 2px 8px rgba(0,0,0,0.06);
@@ -9,7 +9,7 @@
 }
 
 .card-image-wrapper {
-  background: #fff;
+  background: url('/darkwood.jpeg');
   padding: 8px;                      
   border-radius: 4px;
   margin-bottom: 16px;               
@@ -24,7 +24,7 @@
 }
 
 .card-title {
-  color: #e57373;
+  color: wheat;
   font-size: 1.1rem;                 
   font-weight: bold;
   margin: 12px 0 10px 0;            
@@ -32,15 +32,15 @@
 }
 
 .card-desc {
-  color: #888;
+  color: wheat;
   font-size: 0.9rem;                
   margin-bottom: 20px;              
   line-height: 1.5;
 }
 
 .card-btn {
-  background: #e57373;
-  color: #fff;
+  background-color: wheat;
+  color: gray;
   border: none;
   border-radius: 8px;                
   padding: 12px 0;                   
@@ -54,5 +54,6 @@
 }
 
 .card-btn:hover {
-  background: #d45d5d;
+  background: rgb(96, 108, 148) ;
+  color: wheat;
 }

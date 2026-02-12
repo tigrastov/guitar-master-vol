@@ -37,13 +37,13 @@
 
 .form-group input:focus {
   outline: none;
-  border-color: #9F6C7D;
+  border-color: rgb(96, 108, 148);
   box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2);
   background-color: #fff;
 }
 
 .form-group input::placeholder {
-  color: #95a5a6;
+  color: gray;
 }
 
 .submit-btn {

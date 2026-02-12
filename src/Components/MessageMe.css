@@ -13,7 +13,7 @@
 .callback h2 {
   text-align: center;
   margin-bottom: 25px;
-  color: #535a61;
+  color: rgb(96, 108, 148);
   font-size: 24px;
   font-weight: 600;
 
@@ -42,13 +42,13 @@
 .form-group textarea {
 
   width: 90%;
-  color: black;
+  color: rgb(96, 108, 148);
   padding: 12px 15px;
-  border: 1px solid #e0e0e0;
+  border: 3px solid rgb(96, 108, 148);
   border-radius: 8px;
   font-size: 16px;
   transition: all 0.3s;
-  background-color: #f9f9f9;
+  background: url('/darkwood.jpg');
 
 }
 
@@ -60,14 +60,14 @@
 .form-group input:focus,
 .form-group textarea:focus {
   outline: none;
-  border-color: #9F6C7D;
+  border-color: rgb(96, 108, 148);
   box-shadow: 0 0 0 3px rgba(159, 108, 125, 0.2);
   background-color: #fff;
 }
 
 .form-group input::placeholder,
 .form-group textarea::placeholder {
-  color: #95a5a6;
+  color: gray;
 }
 
 .buttons-message {
@@ -96,7 +96,7 @@
   padding: 5px;
   background-color: white;
   color: rgb(51, 46, 65);
-  border: 2px solid #9F6C7D;
+  border: 3px solid rgb(96, 108, 148);
   border-radius: 8px;
   font-size: 14px;
   font-weight: 600;
