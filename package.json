@@ -8,6 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "sitemap": "node scripts/generate-sitemap.js",
     "deploy": "npm run build && firebase deploy --only hosting"
   },
   "dependencies": {
