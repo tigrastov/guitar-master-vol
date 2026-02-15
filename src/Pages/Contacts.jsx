@@ -10,7 +10,11 @@ export default function Contacts() {
       <div className='contacts-container'>
         <div className='text-content'>
 
-          <h2>Контакты</h2>
+
+
+          <div className='link-container'>
+          <h2>г. Вологда</h2>
+          </div>
 
           <div className='link-container'>
             <img src='/phone.png' className='icon-link' alt='phone' />
