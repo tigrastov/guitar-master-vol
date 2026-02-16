@@ -6,6 +6,7 @@
   padding: 20px;
   box-sizing: border-box;
   overflow: hidden;
+
 }
 
 .contacts-container {
@@ -30,11 +31,13 @@
   flex: 1;
 padding: 30px;
  padding-top: 50px;
+ text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
 
 }
 
 .text-content p {
   color: rgb(96, 108, 148);
+
 
 font-weight:bold;
 

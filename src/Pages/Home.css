@@ -17,6 +17,7 @@
   border-radius: 5px;
   padding: 10px;
 
+
 }
 
 .content-container {
@@ -33,7 +34,7 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   z-index: 2;
   max-height: calc(100vh - 170px);
-  /* высота окна минус отступ сверху и снизу */
+
   overflow-y: auto;
 }
 
@@ -41,6 +42,7 @@
   flex: 1;
   padding: 30px;
   padding-top: 50px;
+ 
 
 }
 
@@ -49,6 +51,7 @@
 
   font-size: 14px;
   font-weight: bold;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
   opacity: 0;
   transform: translateX(-100px);
   animation: flyIn 1s ease-out forwards;

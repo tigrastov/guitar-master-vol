@@ -7,12 +7,14 @@
   padding-top: 180px;
   box-sizing: border-box;
   overflow: hidden;
+  
 }
 
 
 .message-container h1 {
     margin-top: 0;
     color: rgb(96, 108, 148);
+
 }
 
 .message-container p {

@@ -16,6 +16,7 @@
   color: rgb(96, 108, 148);
   font-size: 24px;
   font-weight: 600;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
 
   opacity: 0;
   transform: translateY(-50px);
